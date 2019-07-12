@@ -1,5 +1,11 @@
 package tubes.akb;
 
+/* Tanggal : 11 Juli 2019
+   Nama    : Agung Nugraha
+   Nim     : 10116412
+   Kelas   : AKB9-IF9 2016
+*/
+
 import android.app.Fragment;
 import android.os.Bundle;
 import android.view.LayoutInflater;
