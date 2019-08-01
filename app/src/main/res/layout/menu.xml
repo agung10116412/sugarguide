@@ -15,7 +15,7 @@
             android:layout_gravity="center"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:src="@drawable/map"/>
+            android:src="@drawable/main"/>
 
         <TextView
             android:layout_gravity="center"
@@ -31,7 +31,7 @@
             android:layout_height="wrap_content"
             android:textSize="16dp"
             android:textStyle="bold"
-            android:text="COMING SOON"/>
+            android:text="Get News About Pet"/>
 
         <TextView
             android:layout_gravity="center"
